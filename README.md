@@ -18,4 +18,4 @@ pip install PyQt5
 #### Python Version 
       3.8.5
 
-![Image](/images/ss.png)
+![Image](https://github.com/1nnr3d/Simple-Giveaway-Desktop-App/blob/master/images/ss.PNG)
