@@ -18,4 +18,4 @@ pip install PyQt5
 
 ![Image](https://github.com/1nnr3d/Simple-Giveaway-Desktop-App/blob/master/images/ss.PNG)
 
-**İyi Kullanımlar && İyi Günler**
+  **İyi Kullanımlar && İyi Günler**
