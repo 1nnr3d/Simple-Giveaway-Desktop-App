@@ -19,3 +19,11 @@ pip install PyQt5
       3.8.5
 
 ![Image](https://github.com/1nnr3d/Simple-Giveaway-Desktop-App/blob/master/images/ss.PNG)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
