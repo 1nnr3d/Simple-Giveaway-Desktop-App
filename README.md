@@ -18,4 +18,4 @@ pip install PyQt5
 #### Python Version 
       3.8.5
 
-![](/images/ss.png)
+![Image](/images/ss.png)
