@@ -18,4 +18,4 @@ pip install PyQt5
 #### Python Version 
       3.8.5
 
-![GitHub Logo](/images/logo.png)
+![](/images/ss.png)
