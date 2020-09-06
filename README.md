@@ -1,4 +1,4 @@
-# Simple-Giveaway-Desktop-App
+# Simple-Giveaway-Desktop-App V1.0
 Simple Giveaway Desktop App / Basit Çekiliş Masaüstü Programı
 
 # Modules / Modüller
