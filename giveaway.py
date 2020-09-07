@@ -8,7 +8,6 @@ fontBtn = QtGui.QFont("Kanit", 10)
 fontQlabel = QtGui.QFont("Kanit", 10)
 fontWait = QtGui.QFont("Kanit", 20)
 
-
 class mainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
