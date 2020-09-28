@@ -10,8 +10,9 @@ Simple Giveaway Desktop App / Basit Çekiliş Masaüstü Programı
 
 ```css
 
-pip install random
-pip install PyQt5
+pip install -r requirements.txt 
+or
+py -m pip install -r requirements.txt
 
 ```
 
