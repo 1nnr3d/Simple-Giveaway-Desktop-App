@@ -1,4 +1,4 @@
-import random
+import random2
 import sys
 from PyQt5 import QtWidgets, QtTest, QtGui, QtCore as QC
 
@@ -138,7 +138,7 @@ class mainWindow(QtWidgets.QMainWindow):
             global winperson
             winperson = []
             while True:
-                rndm = random.choice(persons)
+                rndm = random2.choice(persons)
                 winperson.append(rndm)
                 if len(winperson) == int(self.persono.value()):
                     self.wait.setText("Kişi Çekiliyor...")
